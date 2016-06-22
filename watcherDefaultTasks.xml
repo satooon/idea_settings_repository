@@ -57,7 +57,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="tool vet $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Go tool vet" />
