@@ -51,7 +51,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/develope/go/bin/goimports" />
+      <option name="program" value="$USER_HOME$/develop/go/bin/goimports" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
