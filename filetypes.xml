@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".production.config" type="PLAIN_TEXT" />
       <mapping pattern="local-mysql-client" type="PLAIN_TEXT" />
       <mapping pattern="unit-stage-progress" type="PLAIN_TEXT" />
