@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tpl" type="HTML" />
+      <mapping ext="tag" type="HTML" />
+      <removed_mapping ext="tag" approved="true" type="JSP" />
       <mapping pattern=".production.config" type="PLAIN_TEXT" />
       <mapping pattern="local-mysql-client" type="PLAIN_TEXT" />
       <mapping pattern="unit-stage-progress" type="PLAIN_TEXT" />
