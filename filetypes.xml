@@ -4,9 +4,10 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="tag" type="HTML" />
-      <removed_mapping ext="tag" approved="true" type="JSP" />
+      <removed_mapping ext="tag" type="JSP" />
       <mapping pattern=".production.config" type="PLAIN_TEXT" />
       <mapping pattern="qa" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping pattern="local-mysql-client" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
