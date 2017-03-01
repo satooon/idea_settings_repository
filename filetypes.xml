@@ -5,14 +5,15 @@
       <mapping ext="tpl" type="HTML" />
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" type="JSP" />
-      <mapping pattern=".production.config" type="PLAIN_TEXT" />
-      <mapping pattern="qa" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping pattern="local-mysql-client" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
+      <mapping pattern="qa" type="PLAIN_TEXT" />
       <mapping pattern="unit-stage-progress" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Makfile" type="PLAIN_TEXT" />
+      <mapping pattern=".production.config" type="PLAIN_TEXT" />
+      <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
