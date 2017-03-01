@@ -18,6 +18,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="qml" type="PLAIN_TEXT" />
       <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
