@@ -4,7 +4,7 @@
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +16,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.go</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
